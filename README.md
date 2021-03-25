@@ -9,6 +9,5 @@ My name is Alex, I am a student of Analysis and Systems Development, studying th
  - **Passionate about motorcycles**🏍️
  -  **And lover for technology 🤖**
 
-
           
           
