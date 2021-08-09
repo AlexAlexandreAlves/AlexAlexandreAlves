@@ -1,13 +1,17 @@
-### Hi there 👋
+## Olá 👋
 
-My name is Alex, I am a student of Analysis and Systems Development, studying the third semester, focused on desktop, web and mobile development.
+#### Meu nome é Alex, sou estudante de Analise e Desenvolvimento de Sistemas, atualmente no 4º semestre.
+#### Trabalho na NG Informática como estágio em QA de Software.
+---
 
- - **From Joinville/SC Brasil**📍
- - **24 years** 🏄
- - **Development Student** 👨💻
- -  **Three languages** 📚
- - **Passionate about motorcycles**🏍️
- -  **And lover for technology 🤖**
+Ja desenvolvi em linguagens como:
+
+- C++
+- Java
+- .Net c#
+- Html
+- Css
+- JavaScript
 
           
           
