@@ -4,7 +4,7 @@
 #### Trabalho na NG Informática como estágio em QA de Software.
 ---
 
-Ja desenvolvi em linguagens como:
+Ja desenvolvi pequenos projetos em linguagens como:
 
 - C++
 - Java
