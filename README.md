@@ -1,7 +1,6 @@
 ## Olá 👋
 
-#### Meu nome é Alex, sou estudante de Analise e Desenvolvimento de Sistemas, atualmente no 4º semestre.
-#### Trabalho na NG Informática como estágio em QA de Software.
+#### Estudante de Analise e Desenvolvimento de Sistemas, atualmente no 4º semestre.
 ---
 
 Ja desenvolvi pequenos projetos em linguagens como:
