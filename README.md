@@ -8,8 +8,7 @@ Ja desenvolvi pequenos projetos em linguagens como:
 - C++
 - Java
 - .Net c#
-- Html
-- Css
+- Html e Css
 - JavaScript
 
           
