@@ -4,7 +4,7 @@
 
 #
 
-- 💼 Trabalho com Teste e qualidade de software 
+- 💼 Trabalho com Teste e Qualidade de Software 
 - 🤖 Automação de testes
 - 📚 Apaixonado por conhecimento
 - 💻 Curioso por novas tecnologias
