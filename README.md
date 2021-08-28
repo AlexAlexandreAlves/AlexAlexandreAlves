@@ -7,8 +7,8 @@
 - 💼 Trabalho com Teste e Qualidade de Software 
 - 🤖 Automação de testes
 - 📚 Apaixonado por conhecimento
-- 💻 Curioso por novas tecnologias
-- 👨‍💻 Desenvolvimento full-stack
+- 👨‍💻 Curioso por novas tecnologias
+
 
 
 #
