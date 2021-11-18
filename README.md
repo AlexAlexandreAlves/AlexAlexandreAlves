@@ -4,11 +4,10 @@
 
 #
 
-- 💼 Trabalho com Teste e Qualidade de Software 
-- 🤖 Automação de testes
-- 📚 Apaixonado por conhecimento
-- 👨‍💻 Curioso por novas tecnologias
-
+- 💼 Worked by Software Quality Assurance.
+- 🤖 Automation tests: Test Cases, mental map and test codes.
+- 📚 Always in search of knowledge
+- 👨‍💻 Curious for new technologies
 
 
 #
