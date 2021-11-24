@@ -1,6 +1,6 @@
 ## Olá 🐱‍💻
 
-#### Estudante de Analise e Desenvolvimento de Sistemas, atualmente no 4º semestre.
+#### Estudante de Analise e Desenvolvimento de Sistemas, cursnado o 4º período.
 
 #
 
