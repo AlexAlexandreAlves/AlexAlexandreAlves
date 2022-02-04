@@ -1,14 +1,14 @@
 ## Olá 🐱‍💻
 
-#### Estudante de Analise e Desenvolvimento de Sistemas, cursnado o 4º período.
+#### Estudante de Analise e Desenvolvimento de Sistemas, cursando o ultimo período.
 
 #
 
-- 💼 Worked by Software Quality Assurance.
-- 🤖 Automation tests: Test Cases, mental map and test codes.
-- 📚 Always in search of knowledge
-- 👨‍💻 Curious for new technologies
-
+- 💼 Trabalho como Software Quality Assurance.
+- 🤖 Automação de testes: Test Cases, mapa mental, e scripts de teste - ADVPL.
+- 👨‍💻 Em aprendizado de desenvolvimento mobile 
+- 📚 Sempre em busca de conhecimento
+- 👾 Curioso por novas tecnologias    
 
 #
  <div>
