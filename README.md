@@ -6,7 +6,7 @@
 
 - 💼 Trabalho como Software Quality Assurance.
 - 🤖 Automação de testes: Test Cases, mapa mental, e scripts de teste - ADVPL.
-- 👨‍💻 Em aprendizado de desenvolvimento mobile 
+- 👨‍💻 Estudando desenvolvimento mobile 
 - 📚 Sempre em busca de conhecimento
 - 👾 Curioso por novas tecnologias    
 
