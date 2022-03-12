@@ -8,7 +8,9 @@
 - 🤖 Automação de testes: Test Cases, mapa mental, e scripts de teste - ADVPL.
 - 👨‍💻 Estudando desenvolvimento mobile 
 - 📚 Sempre em busca de conhecimento
-- 👾 Curioso por novas tecnologias    
+- 👾 Curioso por novas tecnologias 
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f861b9c-0ac0-4b33-9fcc-c387e684769c/da0cd9z-05f2333d-2a40-49c9-a5e5-7fa3e98abbf4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmODYxYjljLTBhYzAtNGIzMy05ZmNjLWMzODdlNjg0NzY5Y1wvZGEwY2Q5ei0wNWYyMzMzZC0yYTQwLTQ5YzktYTVlNS03ZmEzZTk4YWJiZjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ANlghe9_kw5apwR_2uEUPX88voxsuBpmNJW--XPBBNY"/>  
 
 #
  <div>
@@ -25,9 +27,6 @@
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-  <img align="center" alt="Alex-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Alex-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"
-
 </div>
 
  #
