@@ -4,7 +4,7 @@
 
 #
 
-- 💼 Trabalho como Software Quality Assurance.
+- 💼 Trabalho como Engenheiro de Testes de Software.
 - 🤖 Automação de testes: Test Cases, mapa mental, e scripts de teste.
 - 👨‍💻 Estudando Automação de Testes
 - 📚 Sempre em busca de conhecimento
