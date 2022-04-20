@@ -5,8 +5,8 @@
 #
 
 - 💼 Trabalho como Engenheiro de Testes de Software.
-- 🤖 Automação de testes: Test Cases, mapa mental, e scripts de teste.
-- 👨‍💻 Estudando Automação de Testes
+- 🤖 Automação de testes: Test Cases, mind maps, e scripts de teste.
+- 👨‍💻 Estudando Automação de Testes e processos CI e CD
 - 📚 Sempre em busca de conhecimento
 - 👾 Curioso por novas tecnologias 
 
