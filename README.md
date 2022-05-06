@@ -4,8 +4,8 @@
 
 #
 
-- 💼 Trabalho como Engenheiro de Testes de Software.
-- 🤖 Automação de testes: Test Cases, mind maps, e scripts de teste.
+- 💼 Trabalho como Software Quality Assurance.
+- 🤖 Foco na carreira de SDET.
 - 👨‍💻 Estudando Automação de Testes e processos CI e CD
 - 📚 Sempre em busca de conhecimento
 - 👾 Curioso por novas tecnologias 
