@@ -1,14 +1,14 @@
 ## Olá 🐱‍💻
 
-#### Estudante de Analise e Desenvolvimento de Sistemas, cursando o ultimo período.
+#### Studying the last period of Systems Analysis and Development.
 
 #
 
-- 💼 Trabalho como Software Quality Assurance.
-- 🤖 Foco na carreira de SDET.
-- 👨‍💻 Estudando Automação de Testes e processos CI e CD
-- 📚 Sempre em busca de conhecimento
-- 👾 Curioso por novas tecnologias 
+- 💼 Working as Software Quality Assurance.
+- 🤖 Focus on SDET career.
+- 👨💻 Studying Test Automation and CI and CD processes.
+- 📚 Always in search of knowledge
+- 👾 Curious about new technologies 
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f861b9c-0ac0-4b33-9fcc-c387e684769c/da0cd9z-05f2333d-2a40-49c9-a5e5-7fa3e98abbf4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmODYxYjljLTBhYzAtNGIzMy05ZmNjLWMzODdlNjg0NzY5Y1wvZGEwY2Q5ei0wNWYyMzMzZC0yYTQwLTQ5YzktYTVlNS03ZmEzZTk4YWJiZjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ANlghe9_kw5apwR_2uEUPX88voxsuBpmNJW--XPBBNY"/>  
 
