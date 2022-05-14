@@ -1,4 +1,4 @@
-## Hello! 🐱‍💻
+## Hi! 🐱‍💻
 
 #### Studying the last period of Systems Analysis and Development.
 
