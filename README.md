@@ -4,9 +4,9 @@
 
 #
 
-- 💼 Working as Software Quality Assurance.
+- 💼 Working as QA Enginner.
 - 🤖 Focus on SDET career.
-- 👨💻 Studying Test Automation and CI and CD processes.
+- 👨💻 Studying Test Automation and DEVOPS, of CI and CD.
 - 📚 Always in search of knowledge
 - 👾 Curious about new technologies 
 
