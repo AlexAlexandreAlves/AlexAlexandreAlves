@@ -1,6 +1,6 @@
 ## Hi! 🐱‍💻
 
-#### Studying of software enginner focused in tests.
+#### Software engineering student with an emphasis on testing.
 
 #
 
