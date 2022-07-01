@@ -1,6 +1,6 @@
 ## Hi! 🐱‍💻
 
-#### Studying the last period of Systems Analysis and Development.
+#### Studying of software enginner focused in tests.
 
 #
 
