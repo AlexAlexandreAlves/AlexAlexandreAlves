@@ -1,12 +1,10 @@
 ## Hi! 🐱‍💻
 
-#### Software engineering student with an emphasis on testing.
+#### Software engineering student with focus on testing.
 
 #
 
-- 💼 Working as QA Enginner.
-- 🤖 Focus on SDET career.
-- 👨💻 Studying Test Automation and DEVOPS, of CI and CD.
+- 🤖💻 Studying Test Automation and DEVOPS, of CI and CD.
 - 📚 Always in search of knowledge
 - 👾 Curious about new technologies 
 
