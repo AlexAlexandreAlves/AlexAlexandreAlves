@@ -4,7 +4,7 @@
 
 #
 
-- 🤖💻 Studying Test Automation and DEVOPS, of CI and CD.
+- 🤖💻 Studying Test Automation and Devops, of CI and CD.
 - 📚 Always in search of knowledge
 - 👾 Curious about new technologies 
 
