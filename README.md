@@ -2,6 +2,7 @@
 
 #### A little bit about me:
 
+- :mortar_board: Graduated in Analisis and Development Sistems
 - 💻 Passionate for code and in constant studies
 - 🤖 Entusiast Devops, of CI and CD.
 - 📚 Always in search of knowledge
