@@ -1,6 +1,4 @@
-## Hi! 🐱‍💻
-
-#### Software engineering student with focus on testing.
+## Hi! 
 
 #
 
