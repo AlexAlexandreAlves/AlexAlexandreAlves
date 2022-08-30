@@ -1,6 +1,6 @@
-## Hi! 
+## Hi, i'm Alex! 
 
-#
+### A little bit about me:
 
 - 💻 Passionate for code in constant studies
 - 🤖 Entusiast Devops, of CI and CD.
