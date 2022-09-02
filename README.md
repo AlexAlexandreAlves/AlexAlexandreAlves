@@ -4,7 +4,7 @@
 
 - :mortar_board: Graduated in Analisis and Development Sistems
 - 💻 Passionate for code and in constant studies
-- 🤖 Entusiast Devops, of CI and CD.
+- 🤖 I crave to learn concepts from devops, of CI and CD.
 - 📚 Always in search of knowledge
 - 👾 Curious about new technologies 
 
