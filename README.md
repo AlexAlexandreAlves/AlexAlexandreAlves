@@ -3,10 +3,10 @@
 #### A little bit about me:
 
 - :mortar_board: Graduated in Analysis and systems development
-- 💻 Passionate for code and in constant studies
-- 🤖 I aim to learn devops concepts, like as CI and CD.
-- 📚 Always in search of knowledge
-- 👾 Curious about new technologies 
+- 💻 I'm passionate for code and in constant studies
+- 🤖 I'm learn devops concepts, like as CI and CD.
+- 📚 I'm always in search of knowledge
+- 👾 I'm Curious about new technologies 
 
 #
  <div>
