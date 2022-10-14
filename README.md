@@ -1,7 +1,9 @@
 ## Hi, i'm Alex! 
 
-#### A little bit about me:
+https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=2048&q=75
 
+#### A little bit about me:
+         
 - :mortar_board: Graduated in Analysis and systems development
 - 💻 I'm passionate for code and in constant studies
 - 🤖 I'm learn devops concepts, like as CI and CD.
