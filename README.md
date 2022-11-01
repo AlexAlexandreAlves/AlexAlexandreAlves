@@ -1,6 +1,4 @@
-## Hi, i'm Alex! 
-
-[![@alexalexandr's Holopin board](https://holopin.me/alexalexandr)](https://holopin.io/@alexalexandr)
+## Olá / Hi / BonJour! 
 
 #### A little bit about me:
          
