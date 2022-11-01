@@ -31,4 +31,8 @@
 <div>
  <a href="https://www.linkedin.com/in/alex-alexandre-alves-7b7a75185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
+ <img align="center" alt="Alex-SQL" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg](https://www.holopin.io/userbadge/cl9sia1el025208l8hfeauvmy)" style="max-width: 100%;">
+</div>
                 
