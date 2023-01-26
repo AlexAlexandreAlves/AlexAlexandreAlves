@@ -1,4 +1,4 @@
-## Olá / Hi / Bonjour! 
+## Olá / Hi / Bonjour
 
 #### A little bit about me:
          
