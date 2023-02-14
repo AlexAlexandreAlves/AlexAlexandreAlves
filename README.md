@@ -3,8 +3,8 @@
 #### A little bit about me:
          
 - :mortar_board: Graduated in Analysis and systems development
-- 💻 I'm passionate for code and in constant studies
-- 🤖 I'm learn devops concepts, like as CI and CD.
+- 💻 I'm passionate for code and I'm in constant studies
+- 🤖 I'm learn devops concepts, with CI/CD concepts.
 - 📚 I'm always in search of knowledge
 - 👾 I'm Curious about new technologies 
 
