@@ -2,11 +2,11 @@
 
 #### A little bit about me:
          
-- :mortar_board: Graduated in Analysis and systems development
-- 💻 I'm passionate for code and I'm in constant studies
-- 🤖 I'm learn devops concepts, with CI/CD concepts.
-- 📚 I'm always in search of knowledge
-- 👾 I'm Curious about new technologies 
+- :mortar_board: Graduated in Analysis and development systems.
+- 💻 I love work with code and I'm in constant studies.
+- 🤖 I'm learn devops concepts, with CI/CD process.
+- 📚 I'm always in search of knowledge.
+- 👾 I'm very curious about new technologies, frameworks and tools.
 
 #
 
