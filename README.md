@@ -9,7 +9,7 @@
 - 👾 I'm very curious about new technologies, frameworks and tools.
 
 
-[![My GitHub stats](https://github-readme-stats.alex.app/api?username=Alex)](https://github.com/AlexAlexandreAlves)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex)](https://github.com/AlexAlexandreAlves)
 
 #
 
