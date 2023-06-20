@@ -10,7 +10,7 @@
 
 #
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=teste&show_icons=true&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Alex&show_icons=true&theme=dark)
           
 <div dir="auto"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
