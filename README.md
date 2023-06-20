@@ -8,6 +8,9 @@
 - 📚 I'm always in search of knowledge.
 - 👾 I'm very curious about new technologies, frameworks and tools.
 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex)](https://github.com/AlexAlexandreAlves)
+
 #
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,java,cs,jest,aws,mysql,docker,git,gitlab,postman)](https://skillicons.dev)
