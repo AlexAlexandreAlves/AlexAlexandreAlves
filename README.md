@@ -10,7 +10,7 @@
 
 #
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Alex&show_icons=true&theme=dark)
+![My github stats]([https://github.com/AlexAlexandreAlves/AlexAlexandreAlves/blob/main/README.md/api?username=Alex&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
           
