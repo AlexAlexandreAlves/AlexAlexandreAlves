@@ -9,8 +9,6 @@
 - 👾 I'm very curious about new technologies, frameworks and tools.
 
 
-[![My GitHub stats](https://github.com/AlexAlexandreAlves?tab=repositories)](https://github.com/anuraghazra/github-readme-stats)
-
 #
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,java,cs,jest,aws,mysql,docker,git,gitlab,postman)](https://skillicons.dev)
