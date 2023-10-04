@@ -1,4 +1,4 @@
-#### A little bit about me:
+## A little bit about me:
          
 - :mortar_board: Graduated in Analysis and development systems.
 - 💻 I love work with code and I'm in constant studies.
