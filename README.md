@@ -1,5 +1,3 @@
-## Olá / Hi / Bonjour
-
 #### A little bit about me:
          
 - :mortar_board: Graduated in Analysis and development systems.
