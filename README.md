@@ -9,7 +9,7 @@
 
 #
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,java,cs,jest,aws,mysql,docker,git,gitlab,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,jest,aws,mysql,docker)](https://skillicons.dev)
 
  #
  
