@@ -1,10 +1,8 @@
 ## A little bit about me:
          
-- :mortar_board: Graduated in Analysis and development systems.
-- 💻 I love work with code and I'm in constant studies.
-- 🤖 I'm learn devops concepts, with CI/CD process.
-- 📚 I'm always in search of knowledge.
-- 👾 I'm very curious about new technologies, frameworks and tools.
+- :mortar_board: Graduated in analysis and development systems.
+- 🤖 I'm learning devops concepts, with CI/CD process.
+- 👾 I'm curious about new technologies, frameworks and tools and I always in search of knowledge. 
 
 
 #
