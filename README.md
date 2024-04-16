@@ -1,8 +1,7 @@
 ## A little bit about me:
          
-- :mortar_board: Graduated in analysis and development systems.
-- 🤖 I'm learning devops concepts, with CI/CD process and AWS.
-
+- :mortar_board: Graduated in Analysis and Development Systems.
+- 🤖 I'm certificated by AWS and QA concepts.
 - 👾 I'm curious about new technologies, frameworks and tools and I always in search of knowledge. 
 
 
