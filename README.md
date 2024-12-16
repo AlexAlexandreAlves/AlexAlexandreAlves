@@ -4,7 +4,6 @@
 - 🤖 Certificated by AWS and by CTFL.
 - ♾️ Devops process Enthusiast 
 - 👾 Curious about new technologies, frameworks and tools.
--  
 
 
 #
