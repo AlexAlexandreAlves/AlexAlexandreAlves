@@ -1,7 +1,7 @@
 ## A little bit about me:
          
 - :mortar_board: Graduated and background in Analysis and Development Systems.
-- 🤖 Certified by AWS and by CTFL.
+- 🤖 Certified by AWS and by ISQI.
 - ♾️ Devops process Enthusiast. 
 - 👾 Curious about new technologies, frameworks and tools.
 
