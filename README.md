@@ -2,8 +2,8 @@
          
 - :mortar_board: Graduated and background in Analysis and Development Systems.
 - 🤖 Certified by AWS and ISTQB.
-- ♾️ Devops process Enthusiast. 
-- 👾 Curious about new technologies, frameworks and tools.
+- ♾️ DevOps process Enthusiast. 
+- 👾 Curious about new technologies, frameworks, and tools.
 
 
 #
