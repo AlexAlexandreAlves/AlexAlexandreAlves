@@ -1,4 +1,4 @@
-## A little bit about me:
+## About me:
          
 - :mortar_board: Graduated and background in Analysis and Development Systems.
 - 🤖 Certified by AWS and ISTQB.
