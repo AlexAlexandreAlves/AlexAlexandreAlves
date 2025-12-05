@@ -8,7 +8,7 @@
 
 #
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,jest,java,pyton,kafka,ubuntu,windows,aws,postgres,mysql,prisma,terraform,docker,githubactions,gitlab,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,jest,java,py,kafka,ubuntu,windows,aws,postgres,mysql,prisma,terraform,docker,githubactions,gitlab,postman)](https://skillicons.dev)
 
 #
 
