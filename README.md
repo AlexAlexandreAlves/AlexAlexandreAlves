@@ -1,8 +1,8 @@
 ## About me:
          
-- :mortar_board: Graduated and background in Analysis and Development Systems.
-- 🤖 Certified by AWS and ISTQB.
-- ♾️ DevOps process Enthusiast. 
+- :mortar_board: Degree and background in Analysis and Development Systems.
+- 🤖 Certified by AWS, ISTQB and BSTQB.
+- ♾️ DevOps and AI process Enthusiast. 
 - 👾 Curious about new technologies, frameworks, and tools.
 
 
